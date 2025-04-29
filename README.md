@@ -35,7 +35,7 @@ yarn dev
 
 查看我们的 [Next.js 部署文档](https://nextjs.org/docs/deployment) 了解更多详情。
 
-
+安装命令如下：
 npm install
 # 或者
 yarn install
