@@ -36,10 +36,14 @@ yarn dev
 查看我们的 [Next.js 部署文档](https://nextjs.org/docs/deployment) 了解更多详情。
 
 安装命令如下：
+```bash
 npm install
 # 或者
+```bash
 yarn install
 
+```bash
 npm run dev
 # 或者
+```bash
 yarn dev
